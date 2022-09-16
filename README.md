@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate with someone who are passionate about data and working on something bringing positive affect on people's life;
 - 📫 How to reach me: Email: cassy.xrr081@gmail.com
 
+
+
+
 ✍🏻 My Skills:
 - SQL
 - R Prorgamming Language
