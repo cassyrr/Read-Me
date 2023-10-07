@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rongrong;
 - 👩🏻‍⚕️ I have 5+ years of working experience in the healthcare field;
 - 👀 I’m interested in statistics and using data to solve complex problems;
-- 🌱 I’m currently learning Economics with data analysis and statistics at UC Davis;
+- 🌱 I’m a first-year master's student in Data Science at UC San Diego;
 - 💞️ I’m looking to collaborate with someone who is passionate about data and working on something bringing positive effect on people's lives;
 - 📫 How to reach me: Email: cassy.xrr081@gmail.com
 
@@ -9,9 +9,11 @@
 
 ✍🏻 My Skills:
 - SQL
-- R Prorgamming Language
+- R 
 - Microsoft Excel
 - Google Sheets
+- Tableau
+- Python
 
 
 <!---
